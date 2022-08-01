@@ -10,7 +10,7 @@ no2=no3
 no3=no2+no1
 """
 
-un=input("enter number to stop series")
+un=input("enter number to stop series")#un is user number to stop series.
 un=int(un)
 no1=0#(first number)
 no2=1#(second number)
